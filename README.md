@@ -1,0 +1,2 @@
+# WentzyBot
+Personal Discord Bot
